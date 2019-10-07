@@ -1,1 +1,3 @@
-# snt4
+body{
+color:red;
+}
